@@ -15,7 +15,7 @@ Firstly, clone the code
 git clone https://github.com/dynotw/Pedestrian-Detection-Faster-R-CNN.git
 ```
 
-### Compliance
+### Compilation
 To install all the pygame:
 ```
 pip install pygame
